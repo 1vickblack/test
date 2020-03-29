@@ -1,0 +1,12 @@
+header {
+	padding: 5px;
+	margin: 50px 0;
+}
+
+body h1 {
+	font-size: 50px;
+}
+
+.red {
+	color: blue;
+}
